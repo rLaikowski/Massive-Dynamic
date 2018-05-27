@@ -65,7 +65,7 @@ div #mdlogo-small{
    color: #ddd;
 }
 
-.ptext{
+.info{
    position: absolute;
    top: 50%;
    width: 100%;
@@ -77,13 +77,13 @@ div #mdlogo-small{
    opacity: 0.925;
 }
 
-.ptext .border{
+.info .border{
    background-color: #111;
    color: #777;
    padding: 20px;
 }
 
-.ptext .border-trans{
+.info .border-trans{
    background-color: #fff;
    padding: 20px;
    opacity: 0.65;
